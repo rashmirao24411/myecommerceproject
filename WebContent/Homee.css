@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+.navbar-custom {
+    background-color: #EBEDEF ;
+}
+ .navbar {
+  min-height: 5px;
+}
+.left{position:absolutely; top:50%; left:0;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
+img{width:600px;
+height:350px;
+
+}
+.li{
+	color:black;
+}
+.carousal-inner{
+	width:600px;
+	height:350px;
+	
+}
+.carousel-indicators{
+	width:600px;
+	height:200px;
+}
+.carousel-control-prev{
+	left:5px;
+	right:450px;
+}
+.carousal-control-next{
+	left:420px;
+	right:10px;
+}
+.card{
+    margin: .50rem;
+}
